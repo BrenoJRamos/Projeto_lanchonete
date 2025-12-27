@@ -18,7 +18,7 @@ Calcular o valor total da compra
 
 🛠️ Tecnologias utilizadas
 
-Java 17 (ou a versão que você estiver usando)
+Java 17 
 
 IDE IntelliJ 
 
